@@ -6,8 +6,6 @@ Welcome to my repository of LeetCode solutions! This repo serves as my personal 
 
 [LeetCode](https://leetcode.com/) is a platform that helps programmers enhance their skills by solving coding problems. The platform offers challenges across various domains such as algorithms, databases, shell scripting, and concurrency.
 
-## Repository Structure
-
 ## Topics
 - Algorithms
 - Data Structures
