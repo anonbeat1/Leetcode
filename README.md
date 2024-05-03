@@ -8,7 +8,7 @@ Welcome to my repository of LeetCode solutions! This repo serves as my personal 
 
 ## Repository Structure
 
-##Topics
+## Topics
 - Algorithms
 - Data Structures
 - Dynamic Programming
