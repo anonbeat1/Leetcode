@@ -1,4 +1,4 @@
-# LeetCode Solutions
+# Studying LeetCode 🤯
 
 Welcome to my repository of LeetCode solutions! This repo serves as my personal space to track my progress and study the various coding problems available on LeetCode. The main goal is to enhance my problem-solving skills and prepare for software engineering interviews.
 
